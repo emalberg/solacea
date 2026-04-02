@@ -1,0 +1,13 @@
+{
+  "itemGroup.testmodsandbox": "Example Mod Tab",
+  "block.testmodsandbox.example_block": "Example Block",
+  "item.testmodsandbox.example_item": "Example Item",
+
+  "testmodsandbox.configuration.title": "Test Mod Sandbox Configs",
+  "testmodsandbox.configuration.section.testmodsandbox.common.toml": "Test Mod Sandbox Configs",
+  "testmodsandbox.configuration.section.testmodsandbox.common.toml.title": "Test Mod Sandbox Configs",
+  "testmodsandbox.configuration.items": "Item List",
+  "testmodsandbox.configuration.logDirtBlock": "Log Dirt Block",
+  "testmodsandbox.configuration.magicNumberIntroduction": "Magic Number Text",
+  "testmodsandbox.configuration.magicNumber": "Magic Number"
+}
