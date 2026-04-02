@@ -1,13 +1,9 @@
 {
-  "itemGroup.testmodsandbox": "Example Mod Tab",
-  "block.testmodsandbox.example_block": "Example Block",
-  "item.testmodsandbox.example_item": "Example Item",
-
-  "testmodsandbox.configuration.title": "Test Mod Sandbox Configs",
-  "testmodsandbox.configuration.section.testmodsandbox.common.toml": "Test Mod Sandbox Configs",
-  "testmodsandbox.configuration.section.testmodsandbox.common.toml.title": "Test Mod Sandbox Configs",
-  "testmodsandbox.configuration.items": "Item List",
-  "testmodsandbox.configuration.logDirtBlock": "Log Dirt Block",
-  "testmodsandbox.configuration.magicNumberIntroduction": "Magic Number Text",
-  "testmodsandbox.configuration.magicNumber": "Magic Number"
+  "solacea.configuration.title": "Solacea Configs",
+  "solacea.configuration.section.solacea.common.toml": "Solacea Configs",
+  "solacea.configuration.section.solacea.common.toml.title": "Solacea Configs",
+  "solacea.configuration.items": "Item List",
+  "solacea.configuration.logDirtBlock": "Log Dirt Block",
+  "solacea.configuration.magicNumberIntroduction": "Magic Number Text",
+  "solacea.configuration.magicNumber": "Magic Number"
 }

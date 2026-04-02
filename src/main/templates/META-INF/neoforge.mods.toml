@@ -40,7 +40,7 @@ authors="L30N3CH0"
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Sandbox to test ideas 
+A Magic Minecraft Mod about harnesing solar energies. 
 '''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.

@@ -1,4 +1,4 @@
-package com.l30n3ch0.testmodsandbox;
+package com.l30n3ch0.solacea;
 
 import java.util.List;
 import java.util.Set;

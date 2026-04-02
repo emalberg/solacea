@@ -1,4 +1,4 @@
-package com.l30n3ch0.testmodsandbox;
+package com.l30n3ch0.solacea;
 
 import net.minecraft.client.Minecraft;
 import net.neoforged.api.distmarker.Dist;
