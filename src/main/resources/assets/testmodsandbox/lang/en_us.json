@@ -1,4 +1,10 @@
 {
+  "creativetab.solacea.solacea_tab": "Solacea Tab",
+
+  "item.solacea.sunstone_item": "Sunstone Item",
+
+  "block.solacea.sunstone_ore": "Sunstone Ore",
+
   "solacea.configuration.title": "Solacea Configs",
   "solacea.configuration.section.solacea.common.toml": "Solacea Configs",
   "solacea.configuration.section.solacea.common.toml.title": "Solacea Configs",
