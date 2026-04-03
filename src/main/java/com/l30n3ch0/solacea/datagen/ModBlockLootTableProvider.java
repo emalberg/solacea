@@ -30,7 +30,7 @@ public class ModBlockLootTableProvider extends BlockLootSubProvider {
 
     @Override
     protected void generate() {
-       add(ModBlocks.SUNSTONE_ORE.get(), block -> createMultipleOreDrop(ModBlocks.SUNSTONE_ORE.get(), ModItems.SUNSTONE_ITEM.get(), 1, 3));
+       add(ModBlocks.SUNSTONE_ORE.get(), block -> createMultipleOreDrop(ModBlocks.SUNSTONE_ORE.get(), ModItems.SUNSTONE.get(), 1, 3));
     }
 
     protected LootTable.Builder createMultipleOreDrop(Block block, Item item, float minDrops, float maxDrops) {

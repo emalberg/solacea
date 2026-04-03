@@ -10,7 +10,7 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 public class ModItems {
     public static final DeferredRegister.Items ITEMS = DeferredRegister.createItems(Solacea.MODID);
     
-    public static final DeferredItem<Item> SUNSTONE_ITEM = ITEMS.registerItem("sunstone_item", Item::new, Item.Properties::new);
+    public static final DeferredItem<Item> SUNSTONE = ITEMS.registerItem("sunstone", Item::new, Item.Properties::new);
     
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);

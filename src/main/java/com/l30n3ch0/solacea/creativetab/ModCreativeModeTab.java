@@ -19,10 +19,10 @@ public class ModCreativeModeTab {
         DeferredRegister.create(Registries.CREATIVE_MODE_TAB, Solacea.MODID);
 
     public static final Supplier<CreativeModeTab> SOLACEA_TAB = CREATIVE_MODE_TABS.register("solacea_tab", 
-        ()-> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.SUNSTONE_ITEM.get()))
+        ()-> CreativeModeTab.builder().icon(() -> new ItemStack(ModItems.SUNSTONE.get()))
         .title(Component.translatable("creativetab.solacea.solacea_tab"))
         .displayItems((itemDisplayParameters, output) -> {
-            output.accept(ModItems.SUNSTONE_ITEM.get());
+            output.accept(ModItems.SUNSTONE.get());
             output.accept(ModBlocks.SUNSTONE_ORE.get());
         }).build());
 
